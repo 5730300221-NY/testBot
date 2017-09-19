@@ -45,3 +45,4 @@ if (!is_null($events['events'])) {
 	}
 }
 echo file_get_contents($content);
+echo "ok";
